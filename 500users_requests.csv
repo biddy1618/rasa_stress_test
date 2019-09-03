@@ -1,0 +1,4 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/api/messages",5926,401,4500,4741,4,14217,1206,33.11
+"POST","/api/messages",6244,370,1100,2473,7,11589,42,34.89
+"None","Total",12170,771,3000,3577,4,14217,609,67.99
